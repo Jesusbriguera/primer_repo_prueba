@@ -1,0 +1,166 @@
+.parallax{
+    background-image: url(../img/candies-g623ec2e50_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.seccionInicio{
+    background-image: url(../img/store-g1cc1fbfc7_1920.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#imagenIndex{
+text-align: center;
+margin: 50px;
+}
+#menu-nav{
+    background-color: rgb(247, 247, 247);
+    text-align: center;
+    position: fixed;
+    width: 95%;
+    top: 55px;
+    z-index: 1;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    background-color: rgb(127, 171, 201);
+    margin: 0%;
+    font-size: 40px;
+    width: 102%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#resumen{
+    background-color: rgb(240, 248, 240);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    width: 60%; 
+    height: 50%;
+    margin: 50px 20%;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+
+li {
+    display: inline-block;
+    list-style: none;
+    width: 15%;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.card1{
+    background-color: rgb(131, 70, 131);
+    width: 20%;
+    height: 280px;
+    padding: 50px 30px;
+    position: relative; 
+    text-align: center;
+    margin-top: 10px;
+    top: 35px;
+    left: 15%;
+    
+}
+.fondoVerde{
+    background-color: greenyellow;
+    position: absolute;
+    top: 0%;
+    right: -50px;
+    padding: 5px 5px;
+}
+.card1 img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.card2{
+    background-color: rgb(189, 109, 5);
+    width: 20%;
+    height: 280px;
+    padding: 50px 30px;
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+    left: 50%;  
+    top: -355px;  
+}
+.card2 img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.card3{
+    background-color: rgb(197, 80, 80);
+    width: 20%;
+    height: 280px;
+    padding: 50px 30px;
+    position: relative;
+    text-align: center;
+    margin: 5px;
+    top: -336px;  
+    left: 15%;
+}
+.card3 img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.card4{
+    background-color: rgb(219, 228, 145);
+    width: 20%;
+    height: 280px;
+    padding: 50px 30px;
+    position: relative; 
+    text-align: center;
+    margin: 5px;
+    top: -721px;
+    left: 50%;
+}
+.card4 img{
+text-align: center;
+width: 200px;
+height: 200px;
+border: 2px solid black;
+}
+
+
+.text-center{
+    text-align: center;
+    
+}
+
+#enlaceWhatsapp{
+    color: greenyellow;
+    font-size: 40px;
+    position: fixed;
+    bottom: 0%;
+    right: 10px
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+iframe{
+    margin: 50px;
+}
+.contactoFormulario{
+    margin: 50px;
+    background-color: beige;
+}
